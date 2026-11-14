@@ -6,7 +6,7 @@ This software will activate when you go to the URL that identifies the time logg
 
 My purpose in writing this was not only to allow me to go faster but also allow others at my place of employment the same automation so that they can spend less time logging their hours and not have to set aside a longer portion of time to do so.
 
-[Demo Video](http://youtube.link.goes.here](https://youtu.be/8Eqrr98-6Uk)
+[Demo Video](https://youtu.be/8Eqrr98-6Uk)
 
 # Development Environment
 
