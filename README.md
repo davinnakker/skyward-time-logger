@@ -22,21 +22,25 @@ Javascript
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Tamper Monkey Reference](https://www.tampermonkey.net/)
+- [Eloquent Javascript](https://eloquentjavascript.net/index.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add Ability to just do less or more than the hardcoded two shifts per day
+- Feature to input a date range and fill a week with one click
 
 # Setup
 
 1. Install TamperMonkey
-2. Go to Dashboard
-3. Go to the Utilities Tab
-4. Go down to Import from URL
-5. Use https://davinnakker.github.io/skyward-time-logger/final.js and Press Install
+2. Go to Manage Extensions
+3. Click TamperMonkey Extension
+4. Enable 'Allow Usercripts'
+5. Go to Dashboard
+6. Go to the Utilities Tab
+7. Go down to Import from URL
+8. Use https://davinnakker.github.io/skyward-time-logger/final.js and Press Install
+9. Press Install
+10. Make sure TamperMonkey is Enabled
+11. Go to you Time Tracking page
+12. Select hours and press Fill Time
