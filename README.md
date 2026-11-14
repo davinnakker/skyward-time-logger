@@ -6,9 +6,7 @@ This software will activate when you go to the URL that identifies the time logg
 
 My purpose in writing this was not only to allow me to go faster but also allow others at my place of employment the same automation so that they can spend less time logging their hours and not have to set aside a longer portion of time to do so.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Demo Video](http://youtube.link.goes.here](https://youtu.be/8Eqrr98-6Uk)
 
 # Development Environment
 
@@ -19,8 +17,6 @@ Languages:
 Javascript
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 - [Tamper Monkey Reference](https://www.tampermonkey.net/)
 - [Eloquent Javascript](https://eloquentjavascript.net/index.html)
