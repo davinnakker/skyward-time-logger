@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         SafeAuto
+// @name         TimeLoggerAutomation
 // @namespace    http://tampermonkey.net/
 // @version      2026-11-14
-// @description  try to take over the world!
+// @description  Record hours with one click
 // @author       You
-// @match        https://skyward.iscorp.com/MadisonSD321IDBus/TimeTracking/*
+// @match        https://skyward.iscorp.com/*/TimeTracking/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
