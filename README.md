@@ -39,4 +39,4 @@ Javascript
 2. Go to Dashboard
 3. Go to the Utilities Tab
 4. Go down to Import from URL
-5. Use {https://davinnakker.github.io/skyward-time-logger/final.js} and Press Install
+5. Use https://davinnakker.github.io/skyward-time-logger/final.js and Press Install
